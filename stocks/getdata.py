@@ -22,7 +22,8 @@ for y in years:
         create_dir_if_not_exists("data/%s/%s" % (stock_type,code))
         filename=("data/%s/%s/%s_%s.json" % (stock_type,code,y,m))
         if not os.path.exists(filename):
-            time.sleep(3)
+            time.sleep(5)
+            time.sleep(random.random()*6)
             time.sleep(random.random()*6)
             time.sleep(random.random()*6)
             host = 'http://stock.market.alicloudapi.com'
