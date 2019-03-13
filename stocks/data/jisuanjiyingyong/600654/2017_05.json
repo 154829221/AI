@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a906b456a243498993caec532fc731e8",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-05-31","open_price":"16.56","close_price":"16.560","max_price":"16.56","min_price":"16.56","trade_num":"835","trade_money":"1382800","diff_money":"-0.87","diff_rate":"-4.99","swing":"","turnover":"0.01","market":"sh","code":"600654"}]}
+                }
+                
