@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "224dbff35d9f47fea26948549bc0a138",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-10-08","open_price":"6.14","close_price":"6.69","max_price":"6.69","min_price":"6.07","trade_num":"54722","trade_money":"35727181","diff_money":"0.61","diff_rate":"10.03","swing":"10.20","turnover":"2.62","market":"sz","code":"002143"}]}
+                }
+                

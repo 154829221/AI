@@ -1,6 +1,6 @@
                 {
                   "showapi_res_error": "",
-                  "showapi_res_id": "d189cf774d78407f9a7340bacda59644",
+                  "showapi_res_id": "a51b232b82ff4ec185591c2cb75ec02a",
                   "showapi_res_code": 0,
                   "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-06-04","open_price":"21.23","close_price":"22.15","max_price":"22.55","min_price":"21.23","trade_num":"21780","trade_money":"47820000","diff_money":"0.49","diff_rate":"2.26","swing":"6.09","turnover":"2.15","market":"sz","code":"002049"}]}
                 }

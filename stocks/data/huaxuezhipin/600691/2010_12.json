@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "f364728b72f342c182ea9c481d95d17d",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-12-31","open_price":"11.25","close_price":"11.25","max_price":"11.25","min_price":"11.25","trade_num":"401","trade_money":"451249","diff_money":"0.54","diff_rate":"5.04","swing":".00","turnover":"0.05","market":"sh","code":"600691"}]}
+                }
+                

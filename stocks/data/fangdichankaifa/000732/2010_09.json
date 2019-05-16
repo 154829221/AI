@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "8d703f34da6e411e834157c9dedfbc97",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-09-30","open_price":"8.28","close_price":"12.42","max_price":"12.42","min_price":"8.28","trade_num":"675690","trade_money":"754330000","diff_money":"9.00","diff_rate":"263.16","swing":"121.05","turnover":"45.08","market":"sz","code":"000732"}]}
+                }
+                

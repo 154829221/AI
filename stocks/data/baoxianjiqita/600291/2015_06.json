@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a7b49978404947b6a020f9e88308da49",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-06-01","open_price":"34.77","close_price":"36.71","max_price":"36.88","min_price":"34.50","trade_num":"123511","trade_money":"441510000","diff_money":"1.57","diff_rate":"4.47","swing":"6.77","turnover":"3.22","market":"sh","code":"600291"}]}
+                }
+                

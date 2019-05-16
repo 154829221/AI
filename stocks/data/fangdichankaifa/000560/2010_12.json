@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "41e36118ef554ae394032be0baa438db",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-12-31","open_price":"11.72","close_price":"10.85","max_price":"11.72","min_price":"10.80","trade_num":"121086","trade_money":"136040000","diff_money":"0.20","diff_rate":"1.88","swing":"8.64","turnover":"9.01","market":"sz","code":"000560"}]}
+                }
+                

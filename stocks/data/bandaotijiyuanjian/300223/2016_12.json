@@ -1,6 +1,6 @@
                 {
                   "showapi_res_error": "",
-                  "showapi_res_id": "03bfed6c9643447fac184186b5cdac1a",
+                  "showapi_res_id": "7dd8039e2ee846879cf178b219c3f9b9",
                   "showapi_res_code": 0,
                   "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-12-16","open_price":"48.40","close_price":"48.40","max_price":"48.40","min_price":"48.40","trade_num":"2444","trade_money":"11830000","diff_money":"4.40","diff_rate":"10.00","swing":"0.00","turnover":"0.15","market":"sz","code":"300223"}]}
                 }

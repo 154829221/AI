@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "14536bcebab5457bb2ca8e5e5b566f58",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-05-31","open_price":"23.10","close_price":"24.35","max_price":"25.10","min_price":"23.10","trade_num":"271274","trade_money":"638380000","diff_money":"-1.32","diff_rate":"-5.14","swing":"7.79","turnover":"14.58","market":"sz","code":"300331"}]}
+                }
+                

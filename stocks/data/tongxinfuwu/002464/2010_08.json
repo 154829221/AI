@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "20fe7abae0354b85898ceaa182fe3d79",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-08-31","open_price":"24.50","close_price":"32.20","max_price":"36.25","min_price":"24.50","trade_num":"241923","trade_money":"690920000","diff_money":"16.70","diff_rate":"107.74","swing":"75.81","turnover":"86.40","market":"sz","code":"002464"}]}
+                }
+                

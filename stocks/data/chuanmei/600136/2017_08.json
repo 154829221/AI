@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "e5a725afbb584ee1b24f5b6332c7d8c5",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-08-31","open_price":"18.0","close_price":"16.12","max_price":"18.0","min_price":"15.6","trade_num":"226430","trade_money":"370186847","diff_money":"-0.67","diff_rate":"-3.99","swing":"14.29","turnover":"8.25","market":"sh","code":"600136"}]}
+                }
+                

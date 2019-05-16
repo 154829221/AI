@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "21e99d1402e344c3afa390f325fa8cf2",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-05-29","open_price":"22.44","close_price":"22.44","max_price":"22.44","min_price":"22.44","trade_num":"426","trade_money":"956011","diff_money":"2.04","diff_rate":"10.0","swing":".00","turnover":"0.03","market":"sz","code":"300322"}]}
+                }
+                

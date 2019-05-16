@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "f43ac225b4f44b3e9cf49673d0c10296",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-12-29","open_price":"12.08","close_price":"12.6","max_price":"12.62","min_price":"11.95","trade_num":"102701","trade_money":"125521163","diff_money":"0.42","diff_rate":"3.45","swing":"5.50","turnover":"1.67","market":"sz","code":"300208"},{"date":"2017-12-28","open_price":"11.99","close_price":"12.18","max_price":"12.21","min_price":"11.64","trade_num":"99773","trade_money":"119071617","diff_money":"0.21","diff_rate":"1.75","swing":"4.76","turnover":"1.62","market":"sz","code":"300208"},{"date":"2017-12-27","open_price":"11.5","close_price":"11.97","max_price":"12.06","min_price":"11.43","trade_num":"136943","trade_money":"161952874","diff_money":"0.15","diff_rate":"1.27","swing":"5.33","turnover":"2.22","market":"sz","code":"300208"},{"date":"2017-12-26","open_price":"12.54","close_price":"11.82","max_price":"12.58","min_price":"11.16","trade_num":"239067","trade_money":"274416773","diff_money":"-0.58","diff_rate":"-4.68","swing":"11.45","turnover":"3.88","market":"sz","code":"300208"}]}
+                }
+                

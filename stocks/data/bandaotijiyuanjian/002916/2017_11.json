@@ -1,6 +1,6 @@
                 {
                   "showapi_res_error": "",
-                  "showapi_res_id": "63942678b6ae4b9593a42a3ec5eb7e1b",
+                  "showapi_res_id": "24a605245aed4253b013684c7199f2d3",
                   "showapi_res_code": 0,
                   "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-11-21","open_price":"0.000","close_price":"0.000","max_price":"0.000","min_price":"0.000","trade_num":"0","trade_money":"0.000","diff_money":"0.0","diff_rate":"0.0","swing":"0.0","turnover":"0","market":"sz","code":"002916"}]}
                 }

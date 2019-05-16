@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "175d581f237543b3a9d3dfe6f66f365c",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-06-30","open_price":"20.11","close_price":"20.11","max_price":"20.11","min_price":"20.11","trade_num":"7416","trade_money":"14913576","diff_money":"1.83","diff_rate":"10.01","swing":".00","turnover":"0.3","market":"sz","code":"000676"}]}
+                }
+                

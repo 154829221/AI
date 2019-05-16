@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ff361286a7dc41289f9584efaaa2f334",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-03-01","open_price":"8.58","close_price":"8.84","max_price":"8.84","min_price":"8.58","trade_num":"87669","trade_money":"77277439","diff_money":"0.42","diff_rate":"4.99","swing":"3.09","turnover":"1.72","market":"sh","code":"600275"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "1e262ded99984f558368aa55dd647ffe",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-04-30","open_price":"38.00","close_price":"35.60","max_price":"39.79","min_price":"35.60","trade_num":"54041","trade_money":"206540000","diff_money":"-0.57","diff_rate":"-1.58","swing":"11.58","turnover":"23.12","market":"sz","code":"300390"},{"date":"2015-04-29","open_price":"35.00","close_price":"36.17","max_price":"36.17","min_price":"33.66","trade_num":"31045","trade_money":"110430000","diff_money":"3.29","diff_rate":"10.01","swing":"7.63","turnover":"13.28","market":"sz","code":"300390"},{"date":"2015-04-28","open_price":"32.88","close_price":"32.88","max_price":"32.88","min_price":"32.88","trade_num":"1145","trade_money":"3760000","diff_money":"2.99","diff_rate":"10.00","swing":"0.00","turnover":"0.49","market":"sz","code":"300390"},{"date":"2015-04-27","open_price":"29.89","close_price":"29.89","max_price":"29.89","min_price":"29.89","trade_num":"160","trade_money":"480000","diff_money":"2.72","diff_rate":"10.01","swing":"0.00","turnover":"0.07","market":"sz","code":"300390"},{"date":"2015-04-24","open_price":"27.17","close_price":"27.17","max_price":"27.17","min_price":"27.17","trade_num":"2724","trade_money":"7400000","diff_money":"2.47","diff_rate":"10.00","swing":"0.00","turnover":"1.17","market":"sz","code":"300390"}]}
+                }
+                

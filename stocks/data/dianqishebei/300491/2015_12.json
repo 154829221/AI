@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b5aee848a6544e8bb359814aad90c830",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-12-31","open_price":"13.84","close_price":"15.09","max_price":"15.09","min_price":"13.84","trade_num":"35","trade_money":"52190","diff_money":"4.61","diff_rate":"43.99","swing":"11.93","turnover":"0.02","market":"sz","code":"300491"}]}
+                }
+                

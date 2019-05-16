@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "1b7763fc3c2c44cd92fad5487c6e4c89",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-02-01","open_price":"10.26","close_price":"10.48","max_price":"10.6","min_price":"10.18","trade_num":"42501","trade_money":"44321427","diff_money":"0.24","diff_rate":"2.34","swing":"4.10","turnover":"1.3","market":"sh","code":"600745"}]}
+                }
+                

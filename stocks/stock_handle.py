@@ -6,7 +6,7 @@ import config
 stock_dir="data/"
 data_dir="data/jisuanjiyingyong/000034/"
 type_dir="data/jisuanjiyingyong/"
-#concat_stock_data(stock_dir+stock_type+"/"+stock)
+
 def concat_stock_data(data_dir):
     data_list_sort=[]
     if os.path.exists(data_dir):
@@ -45,8 +45,6 @@ def get_data_days():
     data_list.sort()
     return data_list
 
-#print(get_data_days())
-
 
 def get_test_days_list():
     test_day_size = config.test_day + config.result_day
@@ -68,7 +66,6 @@ def get_test_datas():
 def get_test_lenth():
     return len(get_test_days_list())
 
-print(get_test_lenth())
 
 
 def compute1(data_list,test_day):

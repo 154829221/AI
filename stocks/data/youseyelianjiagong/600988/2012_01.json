@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "aee8c511f46a4dfaba305d4ee2bf7f19",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-01-04","open_price":"8.54","close_price":"8.44","max_price":"8.63","min_price":"8.39","trade_num":"2805","trade_money":"2369141","diff_money":"0.02","diff_rate":"0.24","swing":"2.85","turnover":"0.4","market":"sh","code":"600988"}]}
+                }
+                

@@ -1,0 +1,74 @@
+#!/usr/local/python27/bin/python
+import os
+import random
+import sys
+import time
+
+import socket
+import urllib2
+
+code = sys.argv[2]
+stock_type = sys.argv[1]
+socket.setdefaulttimeout(10)
+years = ["2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019"]
+
+months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
+
+USER_AGENTS = (  # items used for picking random HTTP User-Agent header value
+    "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_7_0; en-US) AppleWebKit/534.21 (KHTML, like Gecko) Chrome/11.0.678.0 Safari/534.21",
+    "Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)",
+    "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:0.9.2) Gecko/20020508 Netscape6/6.1",
+    "Mozilla/5.0 (X11;U; Linux i686; en-GB; rv:1.9.1) Gecko/20090624 Ubuntu/9.04 (jaunty) Firefox/3.5",
+    "Opera/9.80 (X11; U; Linux i686; en-US; rv:1.9.2.3) Presto/2.2.15 Version/10.10"
+)
+
+proxy_list = [
+    {"http": "27.191.234.69:9999"},
+    {"http": "124.152.32.140:53281"},
+    {"http": "122.136.212.132:53281"},
+    {"http": "111.40.84.73:9999"},
+    {"http": "14.118.130.213:8081"},
+    {"http": "27.46.22.90:8888"}
+]
+
+
+def create_dir_if_not_exists(directory):
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+
+for y in years:
+    for m in months:
+        create_dir_if_not_exists("data/%s" % stock_type)
+        create_dir_if_not_exists("data/%s/%s" % (stock_type, code))
+        filename = ("data/%s/%s/%s_%s.json" % (stock_type, code, y, m))
+        if not os.path.exists(filename):
+            time.sleep(random.random()*5)
+            time.sleep(random.random()*5)
+            host = 'http://stock.market.alicloudapi.com'
+            path = '/sz-sh-stock-history'
+            method = 'GET'
+            appcode = '1fea94e11c824500b9d9e558330bbf83'
+            querys = 'begin=' + y + '-' + m + '-01&code=' + code + '&end=' + y + '-' + m + '-31'
+            bodys = {}
+            url = host + path + '?' + querys
+            print(url)
+            proxy = random.choice(proxy_list)
+            print(proxy)
+            httpproxy_handler = urllib2.ProxyHandler(proxy)
+            opener = urllib2.build_opener(httpproxy_handler)
+            request = urllib2.Request(url)
+            request.add_header('Authorization', 'APPCODE ' + appcode)
+            request.add_header('User-Agent', random.choice(USER_AGENTS))
+            # response = urllib2.urlopen(request,timeout=10)
+            try:
+                response = opener.open(request, timeout=10000)
+                content = response.read()
+                if (content):
+                    with open(filename, 'w') as load_f:
+                        load_f.write(content)
+                print("Url %s is success." % url)
+            except Exception, e:
+                print("Url %s is failed ." % url)
+                continue
+

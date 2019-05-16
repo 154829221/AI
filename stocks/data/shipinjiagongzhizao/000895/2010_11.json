@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "eb077e170cf94c4a81d2701fb2a1f758",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-11-29","open_price":"54.43","close_price":"54.43","max_price":"54.43","min_price":"54.43","trade_num":"1056","trade_money":"5745576","diff_money":"4.95","diff_rate":"10.0","swing":".00","turnover":"0.02","market":"sz","code":"000895"}]}
+                }
+                

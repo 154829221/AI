@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "3601022fe40c41de95b8da827056cb4f",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-04-25","open_price":"8.14","close_price":"8.14","max_price":"8.14","min_price":"8.14","trade_num":"8725","trade_money":"7102150","diff_money":"-0.9","diff_rate":"-9.96","swing":".00","turnover":"0.09","market":"sz","code":"002638"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a30560955f664060bc78597987870cfb",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-09-30","open_price":"27.10","close_price":"27.90","max_price":"28.22","min_price":"27.00","trade_num":"59210","trade_money":"163630000","diff_money":"-0.20","diff_rate":"-0.71","swing":"4.34","turnover":"14.80","market":"sz","code":"002483"},{"date":"2010-09-29","open_price":"29.00","close_price":"28.10","max_price":"29.17","min_price":"28.00","trade_num":"136709","trade_money":"389680000","diff_money":"-0.90","diff_rate":"-3.10","swing":"4.03","turnover":"34.18","market":"sz","code":"002483"}]}
+                }
+                

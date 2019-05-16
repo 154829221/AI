@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "eebc5f7e9c084aad93b480a1c24b1053",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-04-30","open_price":"71.01","close_price":"64.05","max_price":"72.50","min_price":"64.00","trade_num":"75492","trade_money":"504080000","diff_money":"6.05","diff_rate":"10.43","swing":"14.66","turnover":"55.51","market":"sz","code":"300078"}]}
+                }
+                

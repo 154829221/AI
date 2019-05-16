@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b7121f29753d4ee29ba3585bc8b6d3d2",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-08-31","open_price":"18.88","close_price":"19.31","max_price":"19.87","min_price":"18.67","trade_num":"313741","trade_money":"601990967","diff_money":"0.92","diff_rate":"5.0","swing":"6.53","turnover":"58.53","market":"sz","code":"002613"},{"date":"2011-08-30","open_price":"19.3","close_price":"18.39","max_price":"19.8","min_price":"18.33","trade_num":"427937","trade_money":"806098661","diff_money":"4.89","diff_rate":"36.22","swing":"10.89","turnover":"79.84","market":"sz","code":"002613"}]}
+                }
+                

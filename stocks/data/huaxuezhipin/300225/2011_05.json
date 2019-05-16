@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "511c9b63c708424fbb5168d4d62cc87a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-05-31","open_price":"25.80","close_price":"26.58","max_price":"27.50","min_price":"25.69","trade_num":"48920","trade_money":"129870000","diff_money":"-1.42","diff_rate":"-5.07","swing":"6.46","turnover":"35.87","market":"sz","code":"300225"}]}
+                }
+                

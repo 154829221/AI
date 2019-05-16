@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "53c707611bb44c349dfe58aae092bb9f",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-02-26","open_price":"20.58","close_price":"20.99","max_price":"23.05","min_price":"20.55","trade_num":"258556","trade_money":"544780000","diff_money":"2.61","diff_rate":"14.20","swing":"13.60","turnover":"60.98","market":"sz","code":"300057"}]}
+                }
+                

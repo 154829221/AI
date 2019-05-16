@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ab1a26c1c7ca48a4840c8db968ef0882",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-06-30","open_price":"22.0","close_price":"25.45","max_price":"26.19","min_price":"22.0","trade_num":"562925","trade_money":"1349342268","diff_money":"7.45","diff_rate":"41.39","swing":"23.28","turnover":"87.96","market":"sz","code":"002594"}]}
+                }
+                

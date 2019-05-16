@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "dcd88541a57f4e398c798cbd97c4cff9",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-03-30","open_price":"4.58","close_price":"4.58","max_price":"4.58","min_price":"4.58","trade_num":"847","trade_money":"390000","diff_money":"-0.24","diff_rate":"-4.98","swing":"0.00","turnover":"0.01","market":"sz","code":"000677"}]}
+                }
+                

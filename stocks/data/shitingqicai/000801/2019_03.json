@@ -1,7 +1,0 @@
-                {
-                  "showapi_res_error": "",
-                  "showapi_res_id": "cca621b065f742a5b31686b6d1a6e9e8",
-                  "showapi_res_code": 0,
-                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2019-03-05","open_price":"6.150","close_price":"6.790","max_price":"6.790","min_price":"6.040","trade_num":"705633","trade_money":"452053342.790","diff_money":"0.62","diff_rate":"10.05","swing":"12.16","turnover":"6.899","market":"sz","code":"000801"},{"date":"2019-03-04","open_price":"6.300","close_price":"6.170","max_price":"6.350","min_price":"6.060","trade_num":"512264","trade_money":"316357409.480","diff_money":"0.22","diff_rate":"3.7","swing":"4.87","turnover":"5.008","market":"sz","code":"000801"},{"date":"2019-03-01","open_price":"5.900","close_price":"5.950","max_price":"5.990","min_price":"5.740","trade_num":"265725","trade_money":"155877348.120","diff_money":"0.05","diff_rate":"0.85","swing":"4.24","turnover":"2.598","market":"sz","code":"000801"}]}
-                }
-                

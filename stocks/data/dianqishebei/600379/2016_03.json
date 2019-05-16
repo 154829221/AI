@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "887c9ae6f2c343d4bed2f8976f07ea8e",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-03-31","open_price":"19.6","close_price":"21.61","max_price":"21.76","min_price":"19.58","trade_num":"405021","trade_money":"801971567","diff_money":"-0.15","diff_rate":"-0.69","swing":"10.02","turnover":"17.17","market":"sh","code":"600379"}]}
+                }
+                

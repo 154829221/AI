@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "69733e8121c840c888130b2356cfd6d4",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-06-01","open_price":"30.71","close_price":"33.49","max_price":"33.75","min_price":"30.71","trade_num":"185678","trade_money":"602752098","diff_money":"2.81","diff_rate":"9.16","swing":"9.91","turnover":"3.29","market":"sz","code":"002309"}]}
+                }
+                

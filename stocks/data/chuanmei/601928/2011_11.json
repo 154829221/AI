@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "fbbffeecf63e4b35823945de881ceacd",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-11-30","open_price":"12.03","close_price":"11.86","max_price":"12.97","min_price":"11.72","trade_num":"2575927","trade_money":"3117516180","diff_money":"3.06","diff_rate":"34.77","swing":"14.20","turnover":"92.01","market":"sh","code":"601928"}]}
+                }
+                

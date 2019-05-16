@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "59539210ba5c4108ae63b53f18078200",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-02-02","open_price":"11.68","close_price":"11.86","max_price":"11.96","min_price":"11.45","trade_num":"144773","trade_money":"170230000","diff_money":"0.16","diff_rate":"1.37","swing":"4.36","turnover":"3.71","market":"sz","code":"000587"}]}
+                }
+                

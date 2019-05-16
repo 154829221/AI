@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "6c19eae79d344d418436772366d075a4",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-07-01","open_price":"5.91","close_price":"5.74","max_price":"6.02","min_price":"5.68","trade_num":"108696","trade_money":"62880000","diff_money":"-0.16","diff_rate":"-2.71","swing":"5.76","turnover":"1.16","market":"sh","code":"600409"}]}
+                }
+                

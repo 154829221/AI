@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "372b7828642c4350b40d495f6d1accda",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-05-02","open_price":"9.38","close_price":"8.83","max_price":"9.38","min_price":"8.66","trade_num":"43454","trade_money":"38915363","diff_money":"-0.66","diff_rate":"-6.95","swing":"7.59","turnover":"1.5","market":"sz","code":"002270"}]}
+                }
+                

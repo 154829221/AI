@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ae0903f651ab49ce8522ca6343f4fc78",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-05-29","open_price":"11.84","close_price":"11.84","max_price":"11.84","min_price":"11.84","trade_num":"137","trade_money":"160000","diff_money":"3.62","diff_rate":"44.04","swing":"0.00","turnover":"0.03","market":"sh","code":"603300"}]}
+                }
+                

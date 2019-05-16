@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "38f5afd11f8e40498e3e9d5795e5f2d9",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-07-29","open_price":"28.00","close_price":"26.35","max_price":"29.00","min_price":"25.11","trade_num":"144697","trade_money":"387220000","diff_money":"10.35","diff_rate":"64.69","swing":"24.31","turnover":"88.12","market":"sz","code":"300247"}]}
+                }
+                

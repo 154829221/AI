@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "39ae6ecee69348739e5fd038dd78d034",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-07-31","open_price":"15.8","close_price":"15.35","max_price":"16.12","min_price":"14.97","trade_num":"141458","trade_money":"219827150","diff_money":"-1.65","diff_rate":"-9.71","swing":"6.76","turnover":"28.29","market":"sz","code":"002690"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "f9a5cf78e0bb4e5bb77ecbbd6f7d919e",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-04-28","open_price":"20.98","close_price":"18.8","max_price":"20.98","min_price":"18.8","trade_num":"36256","trade_money":"70278461","diff_money":"-2.09","diff_rate":"-10.0","swing":"10.44","turnover":"1.28","market":"sh","code":"600218"}]}
+                }
+                

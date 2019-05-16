@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "2513eec7e9334a5694264cdf5b99629b",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-02-01","open_price":"8.08","close_price":"8.35","max_price":"8.4","min_price":"8.02","trade_num":"94039","trade_money":"78029203","diff_money":"0.28","diff_rate":"3.47","swing":"4.71","turnover":"12.71","market":"sz","code":"300051"}]}
+                }
+                

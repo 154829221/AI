@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "7c532e6224d84aabafdf19b6e25d6bfc",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-03-01","open_price":"30.34","close_price":"31.3","max_price":"31.3","min_price":"29.95","trade_num":"18642","trade_money":"57517749","diff_money":"1.0","diff_rate":"3.3","swing":"4.46","turnover":"0.51","market":"sz","code":"300058"}]}
+                }
+                

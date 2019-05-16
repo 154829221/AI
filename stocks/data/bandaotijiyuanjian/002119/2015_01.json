@@ -1,6 +1,6 @@
                 {
                   "showapi_res_error": "",
-                  "showapi_res_id": "9d3db17894fc4a94b5556dc299d2ef02",
+                  "showapi_res_id": "8b6fc0772cd44b7190079bdbc2cbaefb",
                   "showapi_res_code": 0,
                   "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-01-05","open_price":"11.79","close_price":"12.97","max_price":"12.97","min_price":"11.75","trade_num":"53351","trade_money":"67090000","diff_money":"1.18","diff_rate":"10.01","swing":"10.35","turnover":"2.75","market":"sz","code":"002119"}]}
                 }

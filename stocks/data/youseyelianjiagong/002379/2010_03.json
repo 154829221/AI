@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "e4897d974a5a4a5da7130edb37ca1347",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2010-03-31","open_price":"53.0","close_price":"50.0","max_price":"53.0","min_price":"49.51","trade_num":"115081","trade_money":"580264205","diff_money":"17.0","diff_rate":"51.52","swing":"10.58","turnover":"73.77","market":"sz","code":"002379"}]}
+                }
+                

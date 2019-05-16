@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b6b01ee0a4c1413798ad1486c18044be",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-12-29","open_price":"16.38","close_price":"17.87","max_price":"17.87","min_price":"16.38","trade_num":"183","trade_money":"325901","diff_money":"5.46","diff_rate":"44.0","swing":"12.01","turnover":"0.06","market":"sz","code":"002922"}]}
+                }
+                

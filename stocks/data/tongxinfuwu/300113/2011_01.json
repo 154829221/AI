@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "24a40d33af4043ada2d753a038dad367",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-01-31","open_price":"75.98","close_price":"67.18","max_price":"75.98","min_price":"63.88","trade_num":"17701","trade_money":"120940501","diff_money":"-2.22","diff_rate":"-3.2","swing":"17.44","turnover":"11.8","market":"sz","code":"300113"}]}
+                }
+                
