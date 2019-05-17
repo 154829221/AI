@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "af001c71686441c18f4b7c980e0efd09",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-12-01","open_price":"13.73","close_price":"13.87","max_price":"14.59","min_price":"13.6","trade_num":"179788","trade_money":"253004657","diff_money":"0.03","diff_rate":"0.22","swing":"7.15","turnover":"6.18","market":"sz","code":"000609"}]}
+                }
+                

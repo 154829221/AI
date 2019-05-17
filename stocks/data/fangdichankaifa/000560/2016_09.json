@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "d2e37e5f145a4835b50cfb6d5b60eb07",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-09-01","open_price":"10.03","close_price":"10.4","max_price":"10.5","min_price":"9.97","trade_num":"117132","trade_money":"119057773","diff_money":"0.37","diff_rate":"3.69","swing":"5.28","turnover":"3.71","market":"sz","code":"000560"}]}
+                }
+                

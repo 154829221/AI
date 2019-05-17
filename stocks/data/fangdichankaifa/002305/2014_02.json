@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ccad50423a7242bda7d0d9a9a5f4a276",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-02-07","open_price":"6.28","close_price":"6.33","max_price":"6.35","min_price":"6.1","trade_num":"36453","trade_money":"22727256","diff_money":"-0.02","diff_rate":"-0.32","swing":"3.94","turnover":"0.38","market":"sz","code":"002305"}]}
+                }
+                
