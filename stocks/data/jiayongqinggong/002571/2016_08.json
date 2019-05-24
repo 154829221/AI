@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ea478046dab14eb1b42bc7a52a1638d9",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-08-01","open_price":"15.0","close_price":"15.33","max_price":"15.4","min_price":"14.61","trade_num":"80060","trade_money":"120643483","diff_money":"0.1","diff_rate":"0.66","swing":"5.19","turnover":"2.11","market":"sz","code":"002571"}]}
+                }
+                

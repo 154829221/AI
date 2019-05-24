@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "03202dbfba0144b0835772ac30aca86b",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-09-01","open_price":"9.83","close_price":"9.84","max_price":"9.86","min_price":"9.73","trade_num":"26528","trade_money":"25949248","diff_money":"0.03","diff_rate":"0.31","swing":"1.33","turnover":"1.53","market":"sz","code":"002740"}]}
+                }
+                

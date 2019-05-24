@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "6da53e51b20542b880f17675f44d021e",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-06-29","open_price":"40.5","close_price":"40.5","max_price":"40.5","min_price":"40.5","trade_num":"8366","trade_money":"33882300","diff_money":"-4.5","diff_rate":"-10.0","swing":".00","turnover":"2.49","market":"sz","code":"300732"}]}
+                }
+                

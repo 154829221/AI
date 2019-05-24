@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "f35585d95f074928be3e09cb46fd66e2",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-10-31","open_price":"25.2","close_price":"23.83","max_price":"25.2","min_price":"23.43","trade_num":"111751","trade_money":"272907895","diff_money":"0.92","diff_rate":"4.02","swing":"7.73","turnover":"5.59","market":"sz","code":"002612"}]}
+                }
+                

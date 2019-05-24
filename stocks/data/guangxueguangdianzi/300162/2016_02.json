@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "f6400e3ef3b34b4595cf92fb2ad27f94",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-02-29","open_price":"21.47","close_price":"21.47","max_price":"21.47","min_price":"21.47","trade_num":"2512","trade_money":"5393264","diff_money":"-2.39","diff_rate":"-10.02","swing":".00","turnover":"0.07","market":"sz","code":"300162"}]}
+                }
+                

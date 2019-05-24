@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "591d66c6ffa74454823877ec5b4ea841",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-05-30","open_price":"3.6","close_price":"3.6","max_price":"3.6","min_price":"3.6","trade_num":"37540","trade_money":"13514324","diff_money":"0.33","diff_rate":"10.09","swing":".00","turnover":"0.31","market":"sh","code":"601005"}]}
+                }
+                

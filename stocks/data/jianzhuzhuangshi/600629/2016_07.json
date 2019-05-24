@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "98a00c6e3cfe422c87e398765a523f28",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-07-01","open_price":"19.15","close_price":"19.88","max_price":"19.92","min_price":"19.07","trade_num":"37188","trade_money":"72301441","diff_money":"0.81","diff_rate":"4.25","swing":"4.46","turnover":"1.07","market":"sh","code":"600629"}]}
+                }
+                

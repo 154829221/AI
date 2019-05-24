@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "60776274162d4c3fb761073c0e1c2263",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-08-30","open_price":"20.98","close_price":"20.98","max_price":"20.98","min_price":"20.61","trade_num":"52542","trade_money":"110191997","diff_money":"1.91","diff_rate":"10.02","swing":"1.94","turnover":"7.15","market":"sz","code":"002289"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "7c740c2c63d245b8aedc45b87306a525",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-05-31","open_price":"17.6","close_price":"17.6","max_price":"17.6","min_price":"17.6","trade_num":"4264","trade_money":"7504288","diff_money":"1.6","diff_rate":"10.0","swing":".00","turnover":"0.16","market":"sz","code":"300054"}]}
+                }
+                

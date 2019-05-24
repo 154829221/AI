@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "28e71a140f7241fdb37068d8209128c1",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-07-31","open_price":"16.0","close_price":"16.42","max_price":"16.77","min_price":"15.65","trade_num":"198190","trade_money":"322702149","diff_money":"-1.08","diff_rate":"-6.17","swing":"6.40","turnover":"19.82","market":"sh","code":"603077"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "10ae84a8de8c4564b5deb45586cd2fec",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-11-30","open_price":"14.61","close_price":"14.61","max_price":"14.61","min_price":"13.35","trade_num":"389442","trade_money":"565618128","diff_money":"1.33","diff_rate":"10.02","swing":"9.49","turnover":"9.13","market":"sh","code":"600209"}]}
+                }
+                

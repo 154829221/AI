@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b0dc916603e34eeb9312307fbf2bc4bb",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-11-01","open_price":"7.97","close_price":"8.33","max_price":"8.33","min_price":"7.92","trade_num":"155934","trade_money":"127378995","diff_money":"0.39","diff_rate":"4.91","swing":"5.16","turnover":"2.34","market":"sh","code":"600346"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b120fd20ae834fda88fd41278c1ea890",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-12-01","open_price":"86.99","close_price":"91.6","max_price":"95.63","min_price":"85.58","trade_num":"123182","trade_money":"1142931609","diff_money":"4.66","diff_rate":"5.36","swing":"11.56","turnover":"49.27","market":"sz","code":"002795"}]}
+                }
+                

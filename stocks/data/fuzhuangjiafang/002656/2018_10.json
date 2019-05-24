@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "fb7b8af3da894762abb593e35b129899",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-10-19","open_price":"8.65","close_price":"8.65","max_price":"8.65","min_price":"8.65","trade_num":"75877","trade_money":"65633605","diff_money":"-0.96","diff_rate":"-9.99","swing":".00","turnover":"1.61","market":"sz","code":"002656"}]}
+                }
+                

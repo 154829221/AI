@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a8cf4046442b4f3197bf49b92da6a42a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-07-01","open_price":"15.38","close_price":"15.04","max_price":"15.38","min_price":"14.89","trade_num":"31184","trade_money":"46835471","diff_money":"-0.16","diff_rate":"-1.05","swing":"3.22","turnover":"1.85","market":"sz","code":"300041"}]}
+                }
+                

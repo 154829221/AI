@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "80e2277e93f449b5b0e31dcf186cb3a5",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-09-30","open_price":"5.47","close_price":"5.47","max_price":"5.47","min_price":"5.47","trade_num":"34154","trade_money":"18682462","diff_money":"0.5","diff_rate":"10.06","swing":".00","turnover":"0.99","market":"sz","code":"002047"}]}
+                }
+                

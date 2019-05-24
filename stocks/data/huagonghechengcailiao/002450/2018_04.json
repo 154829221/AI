@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "18f574e71a9e4d469ce7bc1cbd824125",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-04-27","open_price":"20.01","close_price":"20.62","max_price":"21.55","min_price":"20.01","trade_num":"900955","trade_money":"1868922345","diff_money":"0.84","diff_rate":"4.25","swing":"7.79","turnover":"3.09","market":"sz","code":"002450"}]}
+                }
+                

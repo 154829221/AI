@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "4bbefb78fe82458c8a82a911c2e64f6a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-03-30","open_price":"52.0","close_price":"48.83","max_price":"55.0","min_price":"48.83","trade_num":"75695","trade_money":"376636931","diff_money":"-5.43","diff_rate":"-10.01","swing":"11.37","turnover":"11.58","market":"sh","code":"603032"}]}
+                }
+                

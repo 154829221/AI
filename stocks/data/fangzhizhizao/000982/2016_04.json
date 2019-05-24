@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "21e23493a7d641e4a5ebecd976f7b6ce",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-04-29","open_price":"7.4","close_price":"7.4","max_price":"7.89","min_price":"7.4","trade_num":"1715898","trade_money":"1276739106","diff_money":"-0.82","diff_rate":"-9.98","swing":"5.96","turnover":"13.26","market":"sz","code":"000982"}]}
+                }
+                

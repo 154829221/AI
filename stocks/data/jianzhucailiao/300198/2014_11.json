@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "5f9ec90cd74f47beac4e884fb46cd8f7",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-11-03","open_price":"8.15","close_price":"8.39","max_price":"8.43","min_price":"8.13","trade_num":"97240","trade_money":"80959434","diff_money":"0.28","diff_rate":"3.45","swing":"3.70","turnover":"2.34","market":"sz","code":"300198"}]}
+                }
+                

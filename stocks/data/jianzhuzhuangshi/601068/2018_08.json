@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "39f0a7e22a304e89ad7577d231acf95f",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-08-31","open_price":"4.14","close_price":"4.97","max_price":"4.97","min_price":"4.14","trade_num":"3754","trade_money":"1862813","diff_money":"1.52","diff_rate":"44.06","swing":"24.06","turnover":"0.13","market":"sh","code":"601068"}]}
+                }
+                

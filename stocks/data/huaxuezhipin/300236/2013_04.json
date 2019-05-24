@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "76f2408804fb4fe1b1a66b06b4c339b6",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-04-26","open_price":"14.62","close_price":"14.62","max_price":"14.62","min_price":"14.62","trade_num":"4495","trade_money":"6572202","diff_money":"1.33","diff_rate":"10.01","swing":".00","turnover":"2.09","market":"sz","code":"300236"}]}
+                }
+                

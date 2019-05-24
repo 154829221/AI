@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "d7a6c83040c646098d2a848b8c0206c4",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-01-03","open_price":"15.48","close_price":"16.06","max_price":"16.1","min_price":"15.48","trade_num":"25704","trade_money":"40707391","diff_money":"0.6","diff_rate":"3.88","swing":"4.01","turnover":"1.97","market":"sz","code":"002740"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "d35ed00f2a0446bbbf8daa96aa290fde",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-10-08","open_price":"4.63","close_price":"4.64","max_price":"4.70","min_price":"4.56","trade_num":"55500","trade_money":"25750000","diff_money":"0.04","diff_rate":"0.87","swing":"3.04","turnover":"1.58","market":"sh","code":"600727"}]}
+                }
+                

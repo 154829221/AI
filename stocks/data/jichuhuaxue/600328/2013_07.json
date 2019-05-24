@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "36f47ede304c4e8993b5aa28d37b3fe4",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-07-31","open_price":"6.57","close_price":"6.64","max_price":"6.78","min_price":"6.57","trade_num":"179519","trade_money":"119202447","diff_money":"-0.66","diff_rate":"-9.04","swing":"2.88","turnover":"5.0","market":"sh","code":"600328"}]}
+                }
+                

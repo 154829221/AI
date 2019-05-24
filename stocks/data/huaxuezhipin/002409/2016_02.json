@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "8314f13d264b4cf3b23613865368dfdb",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-02-29","open_price":"24.16","close_price":"24.16","max_price":"24.16","min_price":"23.32","trade_num":"64477","trade_money":"155556882","diff_money":"2.2","diff_rate":"10.02","swing":"3.83","turnover":"3.88","market":"sz","code":"002409"}]}
+                }
+                

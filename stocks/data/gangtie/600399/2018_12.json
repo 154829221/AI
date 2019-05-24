@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "0b6307eb4d8b4fe3af34757ce8e48947",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-12-28","open_price":"2.5","close_price":"2.5","max_price":"2.5","min_price":"2.42","trade_num":"87004","trade_money":"21717811","diff_money":"0.12","diff_rate":"5.04","swing":"3.36","turnover":"0.44","market":"sh","code":"600399"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "803c331e15be4326897c0bd8134aaaf5",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-06-29","open_price":"8.42","close_price":"8.42","max_price":"8.42","min_price":"8.42","trade_num":"7181","trade_money":"6046402","diff_money":"-0.94","diff_rate":"-10.04","swing":".00","turnover":"0.13","market":"sh","code":"600133"}]}
+                }
+                

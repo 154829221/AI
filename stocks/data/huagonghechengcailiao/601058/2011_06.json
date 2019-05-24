@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b82ca3688ace4679bfd9f70dc9ff7efd",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-06-30","open_price":"10.15","close_price":"10.02","max_price":"10.58","min_price":"9.4","trade_num":"733820","trade_money":"729404917","diff_money":"3.14","diff_rate":"45.64","swing":"17.15","turnover":"93.6","market":"sh","code":"601058"}]}
+                }
+                

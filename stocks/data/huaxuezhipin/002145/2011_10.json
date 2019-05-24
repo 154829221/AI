@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "3883ba45e222480a8e3037759fcbb6ed",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-10-10","open_price":"11.45","close_price":"11.27","max_price":"11.78","min_price":"11.08","trade_num":"110534","trade_money":"126778956","diff_money":"-0.1","diff_rate":"-0.88","swing":"6.16","turnover":"11.07","market":"sz","code":"002145"}]}
+                }
+                

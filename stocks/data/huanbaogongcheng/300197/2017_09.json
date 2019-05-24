@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b211586195b448ce9f032a40640150c9",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-09-29","open_price":"13.55","close_price":"13.54","max_price":"13.55","min_price":"12.91","trade_num":"568039","trade_money":"755273155","diff_money":"1.22","diff_rate":"9.9","swing":"5.19","turnover":"3.9","market":"sz","code":"300197"}]}
+                }
+                

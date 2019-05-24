@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "0892b5d89aa94c8a90dc028e856caf1f",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-04-01","open_price":"18.8","close_price":"18.54","max_price":"18.83","min_price":"18.13","trade_num":"30510","trade_money":"56270700","diff_money":"-0.29","diff_rate":"-1.54","swing":"3.72","turnover":"1.79","market":"sh","code":"600182"}]}
+                }
+                
