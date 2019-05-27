@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ab057f0ff70f4420ad3cdb9ead0bf6f8",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-03-31","open_price":"18.31","close_price":"18.31","max_price":"18.31","min_price":"18.31","trade_num":"21293","trade_money":"38987483","diff_money":"-2.03","diff_rate":"-9.98","swing":".00","turnover":"0.09","market":"sh","code":"600649"}]}
+                }
+                

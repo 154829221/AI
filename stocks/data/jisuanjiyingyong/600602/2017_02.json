@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "61523b475b784370a200730cdee6d77a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-02-03","open_price":"9.21","close_price":"9.39","max_price":"9.44","min_price":"9.21","trade_num":"81662","trade_money":"76497269","diff_money":"0.2","diff_rate":"2.18","swing":"2.50","turnover":"0.93","market":"sh","code":"600602"}]}
+                }
+                

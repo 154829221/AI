@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "e6f9a57d70284d26b844378ffc6169b3",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-09-30","open_price":"10.98","close_price":"10.98","max_price":"10.98","min_price":"10.98","trade_num":"6933","trade_money":"7612434","diff_money":"-1.22","diff_rate":"-10.0","swing":".00","turnover":"0.1","market":"sz","code":"000759"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "183fb86214a44c19958e48adde3ec66b",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-06-01","open_price":"18.79","close_price":"17.08","max_price":"18.79","min_price":"17.08","trade_num":"872531","trade_money":"1521863082","diff_money":"-1.9","diff_rate":"-10.01","swing":"9.01","turnover":"2.99","market":"sz","code":"002450"}]}
+                }
+                

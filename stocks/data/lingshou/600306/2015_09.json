@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "fce0dc15f6284881a4a9ecd795fb60ff",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-09-01","open_price":"12.63","close_price":"12.4","max_price":"12.76","min_price":"11.59","trade_num":"85526","trade_money":"102714707","diff_money":"-0.48","diff_rate":"-3.73","swing":"9.08","turnover":"4.82","market":"sh","code":"600306"}]}
+                }
+                

@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "daf5c22050ce4dac9e395e7f03bd5583",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-09-30","open_price":"7.73","close_price":"7.73","max_price":"7.73","min_price":"7.73","trade_num":"273","trade_money":"211114","diff_money":"0.37","diff_rate":"5.03","swing":".00","turnover":"0.01","market":"sz","code":"000908"}]}
+                }
+                

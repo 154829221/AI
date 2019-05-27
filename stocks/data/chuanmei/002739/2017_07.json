@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "bb9912b3bd064f649e9c993bfa4260ea",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-07-03","open_price":"50.99","close_price":"52.04","max_price":"52.04","min_price":"50.81","trade_num":"97921","trade_money":"502853587","diff_money":"1.07","diff_rate":"2.1","swing":"2.41","turnover":"2.32","market":"sz","code":"002739"}]}
+                }
+                
