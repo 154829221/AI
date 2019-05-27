@@ -1,4 +1,4 @@
-#!/usr/local/python27/bin/python
+#!/usr/bin/python
 import os
 import random
 import socket

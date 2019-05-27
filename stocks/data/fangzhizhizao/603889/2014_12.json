@@ -1,7 +1,0 @@
-                {
-                  "showapi_res_error": "",
-                  "showapi_res_id": "b4e0626fc57b4e3b8c569a5b6f818f47",
-                  "showapi_res_code": 0,
-                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-12-31","open_price":"21.54","close_price":"25.85","max_price":"25.85","min_price":"21.54","trade_num":"520","trade_money":"1329978","diff_money":"7.9","diff_rate":"44.01","swing":"24.01","turnover":"0.19","market":"sh","code":"603889"}]}
-                }
-                

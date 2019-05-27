@@ -1,7 +1,0 @@
-                {
-                  "showapi_res_error": "",
-                  "showapi_res_id": "2a3551fcf635476eb35300614926ec5c",
-                  "showapi_res_code": 0,
-                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-03-30","open_price":"23.94","close_price":"28.73","max_price":"28.73","min_price":"23.94","trade_num":"195","trade_money":"559871","diff_money":"8.78","diff_rate":"44.01","swing":"24.01","turnover":"0.08","market":"sh","code":"603214"}]}
-                }
-                

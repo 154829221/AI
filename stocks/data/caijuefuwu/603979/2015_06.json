@@ -1,6 +1,6 @@
                 {
                   "showapi_res_error": "",
-                  "showapi_res_id": "debb5d04118e41d5907de4c5f349a3a7",
+                  "showapi_res_id": "9bc48f209da84792aa3bc3d065c35e45",
                   "showapi_res_code": 0,
                   "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-06-30","open_price":"20.63","close_price":"24.75","max_price":"24.75","min_price":"20.63","trade_num":"803","trade_money":"1986048","diff_money":"7.56","diff_rate":"43.98","swing":"23.97","turnover":"0.08","market":"sh","code":"603979"}]}
                 }

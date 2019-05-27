@@ -31,7 +31,10 @@ def get_and_restore_data(types, conn):
                                     swing = float(0)
                                 else:
                                     swing = float(i["swing"].encode("utf-8"))
-                                turnover = float(i["turnover"].encode("utf-8"))
+                                try:
+                                    turnover = float(i["turnover"].encode("utf-8"))
+                                except Exception as e:
+                                    turnover = float(0)
                                 market = i["market"].encode("utf-8")
 
                                 sql = "insert into stocks (`date`,`stock_type`,`stock_code`,`open_price`,`close_price`,`max_price`,`min_price`,`trade_money`,`diff_money`,`diff_rate`,`swing`,`turnover`,`market`) values ('%s','%s','%s',%s,%s,%s,%s,%s,%s,%s,%s,%s,'%s')" % (

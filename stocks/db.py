@@ -1,9 +1,9 @@
 #coding:utf-8              #由于.py文件是utf-8的，所以必须有这一句
+from DBUtils.PooledDB import PooledDB
 import MySQLdb
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
-from DBUtils.PooledDB import PooledDB
 
 
 class ai_conn():

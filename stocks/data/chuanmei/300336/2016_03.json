@@ -1,7 +1,0 @@
-                {
-                  "showapi_res_error": "",
-                  "showapi_res_id": "a1f34748366243a19654b80e9912ea8c",
-                  "showapi_res_code": 0,
-                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-03-31","open_price":"37.8","close_price":"37.8","max_price":"37.8","min_price":"37.8","trade_num":"5228","trade_money":"19761840","diff_money":"-4.2","diff_rate":"-10.0","swing":".00","turnover":"0.1","market":"sz","code":"300336"}]}
-                }
-                

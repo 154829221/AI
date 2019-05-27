@@ -1,9 +1,9 @@
-host='10.25.130.134'
+host='127.0.0.1'
 user='root'
-passwd='gitv@123'
+passwd=''
 db='ai'
 dbchar='utf8'
-port=3410
+port=3306
 poolsize=20
 
 test_day = 5
