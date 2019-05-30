@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "d3e099df61ed4a6f8ffcd0efab455969",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-12-01","open_price":"8.63","close_price":"8.67","max_price":"8.77","min_price":"8.58","trade_num":"52120","trade_money":"45154348","diff_money":"-0.01","diff_rate":"-0.12","swing":"2.19","turnover":"0.58","market":"sz","code":"002545"}]}
+                }
+                

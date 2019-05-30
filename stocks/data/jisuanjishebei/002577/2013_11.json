@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "0f33c84c93524c28b07881c3e5428895",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2013-11-01","open_price":"11.24","close_price":"11.29","max_price":"11.42","min_price":"11.16","trade_num":"8987","trade_money":"10172584","diff_money":"0.05","diff_rate":"0.44","swing":"2.31","turnover":"1.27","market":"sz","code":"002577"}]}
+                }
+

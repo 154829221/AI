@@ -13,6 +13,7 @@ def get_and_restore_data(types, conn):
         for stock in os.listdir(data_dir + os.sep + stock_type + os.sep):
             for i in os.listdir(data_dir + os.sep + stock_type + os.sep + stock):
                 if ".json" in i:
+                    print(data_dir + os.sep + stock_type + os.sep + stock + os.sep + i)
                     with open(data_dir + os.sep + stock_type + os.sep + stock + os.sep + i, "r") as f:
                         d = json.loads(f.read())
                         if len(d["showapi_res_body"]["list"]) != 0:

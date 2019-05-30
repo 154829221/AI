@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "2658974cce5f48c0b4531192fffa0451",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-10-10","open_price":"16.7","close_price":"16.97","max_price":"17.01","min_price":"16.36","trade_num":"49564","trade_money":"83072225","diff_money":"0.3","diff_rate":"1.8","swing":"3.90","turnover":"1.85","market":"sh","code":"600242"}]}
+                }
+                

@@ -1384,7 +1384,6 @@
 ./getdata.py huaxuezhipin 600273
 ./getdata.py huaxuezhipin 300037
 ./getdata.py huaxuezhipin 002326
-./getdata.py huaxuezhipin 300646
 ./getdata.py huaxuezhipin 603968
 ./getdata.py huaxuezhipin 002341
 ./getdata.py huaxuezhipin 300387

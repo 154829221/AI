@@ -1,0 +1,7 @@
+                {
+                  "showapi_res_error": "",
+                  "showapi_res_id": "41047f39fa304785a80d4d7df088669b",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-04-27","open_price":"19.4","close_price":"21.17","max_price":"21.17","min_price":"19.4","trade_num":"118","trade_money":"249650","diff_money":"6.47","diff_rate":"44.01","swing":"12.04","turnover":"0.07","market":"sz","code":"300743"}]}
+                }
+                
