@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "780836160edd4300a48e82c4109f762c",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2019-06-03","open_price":"7.150","close_price":"6.950","max_price":"7.150","min_price":"6.910","trade_num":"75844","trade_money":"53087850.770","diff_money":"-0.21","diff_rate":"-2.93","swing":"3.35","turnover":"1.024","market":"sz","code":"000410"}]}
+                }
+
