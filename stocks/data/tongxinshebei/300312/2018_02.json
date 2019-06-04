@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "7c6bf9c9e74b4a54a27b54e6a30b7971",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-02-01","open_price":"8.96","close_price":"8.16","max_price":"8.97","min_price":"8.16","trade_num":"59843","trade_money":"51386384","diff_money":"-0.91","diff_rate":"-10.03","swing":"8.93","turnover":"3.22","market":"sz","code":"300312"}]}
+                }
+

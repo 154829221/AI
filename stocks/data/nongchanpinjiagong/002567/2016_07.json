@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "154ddf357d094a99a6a6764354962b35",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-07-29","open_price":"13.23","close_price":"13.55","max_price":"14.38","min_price":"12.58","trade_num":"347970","trade_money":"468222246","diff_money":"-0.43","diff_rate":"-3.08","swing":"12.88","turnover":"8.27","market":"sz","code":"002567"}]}
+                }
+

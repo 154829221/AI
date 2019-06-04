@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "ae494b415d214475af113b95c1923e28",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-03-30","open_price":"15.67","close_price":"18.81","max_price":"18.81","min_price":"15.67","trade_num":"353","trade_money":"656604","diff_money":"5.75","diff_rate":"44.03","swing":"24.04","turnover":"0.05","market":"sz","code":"300504"}]}
+                }
+

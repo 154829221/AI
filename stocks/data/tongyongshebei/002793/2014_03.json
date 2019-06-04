@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="/common/styles.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="/common/jquery-1.11.3.min.js" type="text/javascript"></script>
+  <script src="/common/pf.js" type="text/javascript"></script>
+  <script src="/content/captiveportal.js" type="text/javascript"></script>
+  <title>PacketFence Registration system</title>
+</head>
+<body>
+  <!--
+    title: 
+    module: module-choice
+    description: Default registration policy
+  -->
+  <header>
+    <div class="o-layout o-layout--center [ u-padding-left-small u-padding-top-small u-padding-right-small ] [ u-padding-left@tablet u-padding-top@tablet u-padding-right@tablet ]">
+      <div class="o-layout__item [ u-1/1@mobile u-2/3@tablet ]">
+        <div class="c-frame c-frame--first">
+          <div class="u-padding-horizontal u-padding-horizontal@tablet">
+            <div class="o-pack o-pack--middle">
+              <div class="o-pack__item">
+                <div id="dots"></div>
+              </div>
+              <div class="o-pack__item o-layout--right">
+                <!-- Uncomment to enable language switcher
+                  <a href="?lang=fr_FR">FR</a>
+                -->
+                
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="o-layout o-layout--center [ u-padding-left-small u-padding-right-small u-padding-bottom-small ] [ u-padding-left@tablet u-padding-right@tablet u-padding-bottom@tablet ]">
+      <div class="o-layout__item [ u-1/1 u-2/3@tablet ]">
+
+        <div class="c-frame c-frame--last">
+          <div class="o-layout--center u-padding-horizontal u-padding-horizontal@tablet">
+
+            <img src="/common/GITV-cp.png" class="u-padding-bottom"/>
+
+            
+
+            
+
+          </div>
+
+          
+
+
+
+
+
+
+
+
+
+
+<!--
+  START content-with-choice.html
+  selected choice: (none)
+-->
+
+<div class="c-card o-layout o-layout--center u-padding">
+  <div class="o-layout__item u-1/1">
+    <h2 class="text-center">Select an authentication method</h2>
+  </div>
+  <div class="o-layout__item u-1/1 u-2/3@tablet">
+      
+      <div class="u-padding-vertical-small">
+        <a href="/switchto/default_policy+default_registration_policy+default_login_policy" class="c-btn c-btn--secondary c-btn--ghost u-1/1">
+          Username/password login
+        </a>
+      </div>
+      
+      <div class="u-padding-vertical-small">
+        <a href="/switchto/default_policy+default_registration_policy+default_guest_policy" class="c-btn c-btn--secondary c-btn--ghost u-1/1">
+          Guest signup
+        </a>
+      </div>
+      
+    </div>
+  </div>
+
+<!-- END content-with-choice.html -->
+
+
+
+        </div><!-- /.c-frame -->
+
+      </div>
+    </div>
+  </main>
+
+  
+  <footer>
+    <div class="o-layout o-layout--center u-padding-horizontal-small u-padding-horizontal@tablet">
+      <div class="o-layout__item o-layout--center [ u-1/1 u-2/3@tablet ]">
+        <div class="o-pack o-pack--middle">
+          <div class="o-pack__item o-layout--center">
+            <p class="text-p3">If you have questions about this page, contact your local support staff for assistance. Please provide the following information: </p>
+            <p class="text-p3 u-margin-none">IP <b>10.1.71.12</b></p>
+            <p class="text-p3">MAC <b>08:00:27:f4:7a:23</b></p>
+          </div>
+        </div>
+        <!-- <div class="o-box u-padding-tiny u-padding@tablet">
+          <p class="text-center">If you have questions about this page, contact your local support staff for assistance. Please provide the following information: </p>
+        </div> -->
+      </div>
+    </div>
+  </footer>
+  
+</body>
+</html>

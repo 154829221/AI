@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a9c887d10c334442a5f50102d868de8c",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-04-27","open_price":"31.01","close_price":"34.72","max_price":"35.6","min_price":"31.01","trade_num":"475689","trade_money":"1541491797","diff_money":"14.72","diff_rate":"73.6","swing":"22.95","turnover":"86.01","market":"sh","code":"603000"}]}
+                }
+

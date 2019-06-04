@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a9b87b0fe33449c6bb0dcd83a7fa4209",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-10-08","open_price":"7.73","close_price":"7.93","max_price":"8.01","min_price":"7.69","trade_num":"35624","trade_money":"28092514","diff_money":"0.15","diff_rate":"1.93","swing":"4.11","turnover":"0.84","market":"sz","code":"002089"}]}
+                }
+

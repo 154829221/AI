@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "e71a0e758aca4ba3a150a9d43ff18236",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-02-28","open_price":"21.3","close_price":"21.81","max_price":"23.19","min_price":"20.87","trade_num":"23459","trade_money":"50527930","diff_money":"-1.38","diff_rate":"-5.95","swing":"10.00","turnover":"9.87","market":"sz","code":"300220"}]}
+                }
+

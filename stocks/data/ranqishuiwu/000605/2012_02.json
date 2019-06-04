@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "708d88b3f52747678c7ea2d0a4cffab3",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2012-02-29","open_price":"8.7","close_price":"8.7","max_price":"8.7","min_price":"8.7","trade_num":"1678","trade_money":"1460034","diff_money":"0.41","diff_rate":"4.95","swing":".00","turnover":"0.41","market":"sz","code":"000605"}]}
+                }
+

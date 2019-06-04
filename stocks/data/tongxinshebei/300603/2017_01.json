@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "7d38db3859d746f78131ccf4b22fec2a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-01-26","open_price":"5.46","close_price":"6.55","max_price":"6.55","min_price":"5.46","trade_num":"64","trade_money":"41541","diff_money":"2.0","diff_rate":"43.96","swing":"23.96","turnover":"0.02","market":"sz","code":"300603"}]}
+                }
+

@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "b46694a26b0447f98304be11bd2823e6",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2011-02-01","open_price":"7.49","close_price":"7.69","max_price":"7.8","min_price":"7.49","trade_num":"124166","trade_money":"95187694","diff_money":"0.19","diff_rate":"2.53","swing":"4.13","turnover":"1.7","market":"sh","code":"600676"}]}
+                }
+

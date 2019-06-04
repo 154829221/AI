@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "6a7240527f9246bcaff5fb4392ff5b58",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2019-06-03","open_price":"19.190","close_price":"21.070","max_price":"21.070","min_price":"19.070","trade_num":"86358","trade_money":"173064359.000","diff_money":"1.92","diff_rate":"10.03","swing":"10.44","turnover":"10.257","market":"sh","code":"603559"}]}
+                }
+

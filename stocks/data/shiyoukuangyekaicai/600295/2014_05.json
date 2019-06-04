@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "16331c5e8a2147e6a45965e66b1ff1ea",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-05-05","open_price":"7.4","close_price":"7.5","max_price":"7.53","min_price":"7.25","trade_num":"15472","trade_money":"11464836","diff_money":"0.09","diff_rate":"1.21","swing":"3.78","turnover":"0.25","market":"sh","code":"600295"}]}
+                }
+

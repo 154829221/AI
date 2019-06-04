@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "43e6134c91ca4498919720df1961d9f5",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-09-30","open_price":"4.9","close_price":"5.14","max_price":"5.14","min_price":"4.84","trade_num":"465388","trade_money":"232955088","diff_money":"0.47","diff_rate":"10.06","swing":"6.42","turnover":"4.7","market":"sh","code":"600397"}]}
+                }
+

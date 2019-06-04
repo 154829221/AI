@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "84ff72b79cd04a04b259c9a6e00a4393",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2016-03-31","open_price":"27.95","close_price":"27.95","max_price":"27.95","min_price":"27.95","trade_num":"6958","trade_money":"19450000","diff_money":"-3.11","diff_rate":"-10.01","swing":"0.00","turnover":"0.20","market":"sz","code":"300028"},{"date":"2016-03-30","open_price":"31.06","close_price":"31.06","max_price":"31.06","min_price":"31.06","trade_num":"4940","trade_money":"15340000","diff_money":"-3.45","diff_rate":"-10.00","swing":"0.00","turnover":"0.14","market":"sz","code":"300028"}]}
+                }
+

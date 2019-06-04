@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "11a153efc4fd4b5fa0c6aba85d7cd45a",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-07-31","open_price":"19.07","close_price":"19.07","max_price":"19.07","min_price":"19.07","trade_num":"372","trade_money":"709404","diff_money":"-2.12","diff_rate":"-10.0","swing":".00","turnover":"0.01","market":"sz","code":"002464"}]}
+                }
+

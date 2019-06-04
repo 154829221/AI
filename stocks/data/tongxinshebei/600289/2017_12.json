@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "2ab419fb279d43f7bd1d464825c5fefd",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2017-12-29","open_price":"9.94","close_price":"9.94","max_price":"9.94","min_price":"9.94","trade_num":"125","trade_money":"124250","diff_money":"-0.52","diff_rate":"-4.97","swing":".00","turnover":"0.0","market":"sh","code":"600289"},{"date":"2017-12-28","open_price":"10.46","close_price":"10.46","max_price":"10.46","min_price":"10.46","trade_num":"215","trade_money":"224890","diff_money":"-0.55","diff_rate":"-5.0","swing":".00","turnover":"0.0","market":"sh","code":"600289"},{"date":"2017-12-27","open_price":"11.01","close_price":"11.01","max_price":"11.01","min_price":"11.01","trade_num":"68","trade_money":"74868","diff_money":"-0.58","diff_rate":"-5.0","swing":".00","turnover":"0.0","market":"sh","code":"600289"}]}
+                }
+

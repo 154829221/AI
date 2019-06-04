@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "eddfafaeb4fd480b907d32c134c0b71c",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2014-09-30","open_price":"20.64","close_price":"20.64","max_price":"20.64","min_price":"20.64","trade_num":"654","trade_money":"1349897","diff_money":"1.88","diff_rate":"10.02","swing":".00","turnover":"0.08","market":"sh","code":"600419"}]}
+                }
+

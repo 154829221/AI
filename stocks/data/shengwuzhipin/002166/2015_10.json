@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "a96b81ac2a3e427b8244ae81df9c964f",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2015-10-30","open_price":"9.81","close_price":"9.81","max_price":"9.81","min_price":"9.81","trade_num":"6263","trade_money":"6143983","diff_money":"0.89","diff_rate":"9.98","swing":".00","turnover":"0.16","market":"sz","code":"002166"}]}
+                }
+

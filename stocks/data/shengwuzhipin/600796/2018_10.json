@@ -1,0 +1,7 @@
+{
+                  "showapi_res_error": "",
+                  "showapi_res_id": "57e148601f934c4d90597c1a9b115984",
+                  "showapi_res_code": 0,
+                  "showapi_res_body": {"ret_code":0,"list":[{"date":"2018-10-31","open_price":"5.47","close_price":"5.47","max_price":"5.47","min_price":"5.47","trade_num":"5824","trade_money":"3185728","diff_money":"-0.61","diff_rate":"-10.03","swing":".00","turnover":"0.18","market":"sh","code":"600796"}]}
+                }
+
